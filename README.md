@@ -17,45 +17,42 @@ Additionally, after evidence of academic dishonesty surfaced from Thomas High Sc
 
 ## Results
 ### District Summary
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/SnapshotT.JPG">
-#### Considering Thomas High School 9th grade students
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/Snapshot.JPG">
-#### Not Considering Thomas High School 9th grade students
+- Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/SnapshotT.JPG">
+- Not Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/Snapshot.JPG">
+
 ### Top 5
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/top5T.JPG">
-#### Considering Thomas High School 9th grade students
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/top5.JPG">
-#### Not Considering Thomas High School 9th grade students
+- Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/top5T.JPG">
+- Not Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/top5.JPG">
+
 ### Bottom 5
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/bottom5T.JPG">
-#### Considering Thomas High School 9th grade students
+- Considering Thomas High School 9th grade students
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/bottom5.JPG">
-#### Not Considering Thomas High School 9th grade students
+- Not Considering Thomas High School 9th grade students
+
 ### Average math score per grade
+- Considering Thomas High School 9th grade students 
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/mathT.JPG">
-#### Considering Thomas High School 9th grade students
+- Not Considering Thomas High School 9th grade students 
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/math.JPG">
-#### Not Considering Thomas High School 9th grade students
+
 ### Average reading score per grade
+-  Considering Thomas High School 9th grade students 
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/readingT.JPG">
-#### Considering Thomas High School 9th grade students
+- Not Considering Thomas High School 9th grade students 
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/reading.JPG"> 
-#### Not Considering Thomas High School 9th grade students
+
 ### School performance based on the budget per student
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/budgetT.JPG">
-#### Considering Thomas High School 9th grade students
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/budget.JPG"> 
-#### Not Considering Thomas High School 9th grade students
+- Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/budgetT.JPG">
+- Not Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/budget.JPG"> 
+
 ### School performance based on the school size
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/sizeT.JPG">
-#### Considering Thomas High School 9th grade students
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/size.JPG"> 
-#### Not Considering Thomas High School 9th grade students
+- Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/sizeT.JPG">
+- Not Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/size.JPG"> 
+
 ### School performance based on the type of school
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/typeT.JPG">
-#### Considering Thomas High School 9th grade students
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/type.JPG">
-#### Not Considering Thomas High School 9th grade students
+- Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/typeT.JPG">
+- Not Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/type.JPG">
 
 ## Summary
 Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
