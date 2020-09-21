@@ -54,7 +54,11 @@ Additionally, after evidence of academic dishonesty surfaced from Thomas High Sc
 - Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/typeT.JPG">
 - Not Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/type.JPG">
 
+Overall it can be said that there is no significant effect from removing Thomas High School's 9th graders. The data doesn't change significantly; while the metrics remain almost the same, there is still a need to understand how they managed to commit the academic dishonesty. Furthermore, the analysis needs to be repeated with the correct math scores to see their impact. It would be interesting to see if the correct scores have a more significant impact and by how much. 
 ## Summary
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+- Overall passing percentage is decreased by 1 tenth and math passing percentage is decreased by 2 tenths
+- Specifically Thomas High School decreased the overall passing percentage, but remained in the 2nd place of the school ranking
+- Average math and reading grades for 9th graders can't be seen in the grade summary
+- fourth
 
-The script to perform the election audit can be used for any other election as long as the provided data set (election_results.csv) has the same format. The sript only open the results file in reading mode assuring that the file will be modified, thus changing the results. One of change to the script that can be done is to analyze the votes per county for each candidate, this can lead to understand the preferences for a particular candidate in a given county. It could be possible to verify if there is a duplicated ballot as an extra layer of security for the election.
+
