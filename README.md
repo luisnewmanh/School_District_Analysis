@@ -33,14 +33,14 @@ Additionally, after evidence of academic dishonesty surfaced from Thomas High Sc
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/mathT.JPG">
 
 - Not Considering Thomas High School 9th grade students 
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/math.JPG">
+<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/mathok.JPG">
 
 ### Average reading score per grade
 -  Considering Thomas High School 9th grade students 
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/readingT.JPG">
 
 - Not Considering Thomas High School 9th grade students 
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/reading.JPG"> 
+<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/readingok.JPG"> 
 
 ### School performance based on the budget per student
 - Considering Thomas High School 9th grade students <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/budgetT.JPG">
@@ -58,7 +58,6 @@ Overall it can be said that there is no significant effect from removing Thomas 
 ## Summary
 - Overall passing percentage is decreased by 1 tenth and math passing percentage is decreased by 2 tenths
 - Specifically Thomas High School decreased the overall passing percentage, but remained in the 2nd place of the school ranking
-- Average math and reading grades for 9th graders can't be seen in the grade summary
-- fourth
+- Average math and reading grades for 9th graders can't be seen in the grade summary 
 
 
