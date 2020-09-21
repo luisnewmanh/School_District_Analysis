@@ -4,8 +4,8 @@ Analyze testing and budgeting data from a City School District to understand sch
 ### Purpose
 The purpose of this analysis is to deliver key indicators for the City School District: 
 
-1. A high-level snapshot of the district's key metrics, presented in a table format
-2. An overview of the key metrics for each school, presented in a table format
+1. A high-level snapshot of the district's key metrics
+2. An overview of the key metrics for each school
     - Top 5 and bottom 5 performing schools, based on the overall passing rate
     - The average math score received by students in each grade level at each school
     - The average reading score received by students in each grade level at each school
@@ -17,41 +17,41 @@ Additionally, after evidence of academic dishonesty surfaced from Thomas High Sc
 
 ## Results
 ### Considering Thomas High School 9th grade students
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/Snapshot.JPG">
+<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/SnapshotT.JPG">
 
-Snapshot
+District Summary
 
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/top5.JPG">
+<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/top5T.JPG">
 
 Top 5
 
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/bottom5.JPG">
+<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/bottom5T.JPG">
 
 Bottom 5
 
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/math.JPG">
+<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/mathT.JPG">
 
 Average math score per grade
 
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/reading.JPG"> 
+<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/readingT.JPG"> 
 
 Average reading score per grade
 
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/budget.JPG">  
+<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/budgetT.JPG">  
 
 School performance based on the budget per student
 
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/size.JPG"> 
+<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/sizeT.JPG"> 
 
 School performance based on the school size
 
-<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/type.JPG">
+<img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/typeT.JPG">
 
 School performance based on the type of school
 ### Not Considering Thomas High School 9th grade students
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/Snapshot.JPG">
 
-Snapshot
+District Summary
 
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/top5.JPG">
 
