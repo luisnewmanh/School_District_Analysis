@@ -33,12 +33,14 @@ Additionally, after evidence of academic dishonesty surfaced from Thomas High Sc
 ### Average math score per grade
 - Considering Thomas High School 9th grade students 
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/mathT.JPG">
+
 - Not Considering Thomas High School 9th grade students 
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/math.JPG">
 
 ### Average reading score per grade
 -  Considering Thomas High School 9th grade students 
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/readingT.JPG">
+
 - Not Considering Thomas High School 9th grade students 
 <img src="https://github.com/luisnewmanh/School_District_Analysis/blob/master/Resources/reading.JPG"> 
 
